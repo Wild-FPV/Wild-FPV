@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working on various small projects
-- 🌱 Currently learning HTML/CSS/JS
+- 🌱 Currently learning...¯\_(ツ)_/¯
 - 💬 Know Java, Python, Arduino C
 - ⚡ FPV Pilot
 
