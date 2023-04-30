@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently learning...¯\_(ツ)_/¯
+- 🌱 Currently learning web development and Flutter
 - 💬 Know Java, Python, Arduino C
 - ⚡ FPV Pilot
 
